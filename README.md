@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### I'm Felix Nagel, Full-Stack Web Developer and Online Marketing Consultant
+
+<a href="https://app.daily.dev/fenagel"><img src="https://api.daily.dev/devcards/ca988b38f45f4256af551485ee0094b2.png?r=0it" width="400" alt="Felix Nagel's Dev Card"/></a>
+
 <!--
 **fenagel/fenagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
