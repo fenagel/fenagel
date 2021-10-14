@@ -2,7 +2,7 @@
 
 ### I'm Felix Nagel, Full-Stack Web Developer and Online Marketing Consultant
 
-<a href="https://app.daily.dev/"><img src="https://github.com/fenagel/fenagel/blob/main/devcard.svg" width="400" alt="Felix Nagel's Dev Card"/></a>
+<a href="https://app.daily.dev/fenagel"><img src="https://github.com/fenagel/fenagel/blob/main/devcard.svg" width="400" alt="Felix Nagel's Dev Card"/></a>
 
 <!--
 **fenagel/fenagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
